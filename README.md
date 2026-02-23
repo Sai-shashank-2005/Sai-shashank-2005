@@ -24,9 +24,11 @@ Aggressively Learning Emerging Technologies
 ## 🛡️ Flagship — Trade Sentinel AI v2
 
 ```yaml
-Isolation Forest + Z-Score Rule Engine
-0.6 AI | 0.4 Rule Hybrid Risk Model
-50,000 Records | Context-Aware Calibration
+Context-Aware Hybrid Risk Engine
+Isolation Forest + Statistical Z-Score Calibration
+Dynamic 0.6 AI | 0.4 Rule Weighting Model
+High-Precision Anomaly Detection (Reduced False Positives)
+Scalable Architecture (Tested on Large Transaction Datasets)
 FastAPI + React + PostgreSQL
 Deployed: Vercel (FE) | Railway (BE)
 ```
