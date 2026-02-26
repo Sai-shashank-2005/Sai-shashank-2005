@@ -30,7 +30,7 @@ Dynamic 0.6 AI | 0.4 Rule Weighting Model
 High-Precision Anomaly Detection (Reduced False Positives)
 Scalable Architecture (Tested on Large Transaction Datasets)
 FastAPI + React + PostgreSQL
-Deployed: Vercel (FE) | Railway (BE)
+Deployed: https://trade-risk-frontend.vercel.app/
 ```
 
 <p align="center">
