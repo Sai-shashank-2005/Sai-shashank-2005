@@ -30,14 +30,20 @@ Dynamic 0.6 AI | 0.4 Rule Weighting Model
 High-Precision Anomaly Detection (Reduced False Positives)
 Scalable Architecture (Tested on Large Transaction Datasets)
 FastAPI + React + PostgreSQL
-Deployed: https://trade-risk-frontend.vercel.app/
+Deployed: railway | vercel
 ```
+<!-- ===== FLAGSHIP LIVE CTA ===== -->
+<!-- ===== FLAGSHIP LIVE CTA (Clean) ===== -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,fastapi,react,postgres,docker,ubuntu" />
+  <a href="https://trade-risk-frontend.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20EXPERIENCE%20TRADE%20SENTINEL%20AI%20v2-8F00FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0b0f19" />
+  </a>
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=700&color=8F00FF&center=true&vCenter=true&width=850&lines=Enterprise-Grade+Hybrid+Risk+Intelligence;Isolation+Forest+%2B+Statistical+Calibration;Reduced+False+Positives+%7C+Scalable+Architecture;Production-Ready+Deployment+on+Vercel+%2B+Railway" />
+</p>
 
 ## ☁️ Server Engineering
 
