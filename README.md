@@ -1,11 +1,11 @@
-<!-- ================= KILLER ANIMATED PROFILE v2 ================= -->
+<!-- ================= SAI SHASHANK — SECURITY & PROTOCOL ENGINEERING ================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,100:6a00ff&height=220&section=header&text=Sai%20Shashank%20P&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2200&pause=600&color=8F00FF&center=true&vCenter=true&width=900&lines=Offensive+Security+Engineer;Intelligent+Security+Systems+Builder;Ubuntu+Server+%7C+Networking+Enthusiast;AI+%7C+Blockchain+%7C+Quantum+Trajectory;Build.+Break.+Harden.+Scale."/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2200&pause=600&color=8F00FF&center=true&vCenter=true&width=900&lines=Security+Engineer;AI-Driven+Risk+Systems;Byzantine-Resilient+Protocol+Builder;Ubuntu+Server+%7C+Distributed+Systems;Build.+Break.+Harden.+Scale."/>
 </p>
 
 ---
@@ -13,27 +13,46 @@
 ## 🧠 Who I Am
 
 ```bash
-Offensive Security + AI-driven Detection
-Server & Networking Focused Engineer
-Deploying Systems (Ubuntu | Vercel | Railway)
-Aggressively Learning Emerging Technologies
+Security Engineer focused on adversarial systems
+AI-driven fraud detection builder
+Byzantine Fault Tolerant protocol engineer
+Ubuntu | Networking | Backend Infrastructure
 ```
+
+I build measurable, production-oriented systems that operate safely under adversarial conditions.
 
 ---
 
-## 🛡️ Flagship — Trade Sentinel AI v2
+# 🛡️ Flagship — Trade Sentinel AI v2
 
 ```yaml
-Context-Aware Hybrid Risk Engine
-Isolation Forest + Statistical Z-Score Calibration
-Dynamic 0.6 AI | 0.4 Rule Weighting Model
-High-Precision Anomaly Detection (Reduced False Positives)
-Scalable Architecture (Tested on Large Transaction Datasets)
+Hybrid Fraud Detection Architecture
+Isolation Forest (Unsupervised ML)
+Category-Aware Z-Score Normalization
+0.6 AI | 0.4 Rule Weighted Risk Fusion
+Bounded Context Calibration (≤20%)
 FastAPI + React + PostgreSQL
-Deployed: railway | vercel
+Production Deployment (Railway + Vercel)
 ```
-<!-- ===== FLAGSHIP LIVE CTA ===== -->
-<!-- ===== FLAGSHIP LIVE CTA (Clean) ===== -->
+
+## 🎯 Problem Solved
+
+Trade fraud detection systems generate excessive false positives and overload compliance teams.
+
+## 📊 Quantified Impact
+
+* 50,000 transaction dataset (6% injected fraud)
+* Precision improved **36% → 88%**
+* Recall maintained at **~99%**
+* False positives reduced **5,333 → 418 (>90% reduction)**
+* Successfully scaled to **100,000+ transactions**
+
+## 🌍 Real-World Applications
+
+* Trade finance monitoring
+* AML compliance systems
+* Customs anomaly detection
+* Cross-border risk scoring engines
 
 <p align="center">
   <a href="https://trade-risk-frontend.vercel.app/" target="_blank">
@@ -42,13 +61,52 @@ Deployed: railway | vercel
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=700&color=8F00FF&center=true&vCenter=true&width=850&lines=Enterprise-Grade+Hybrid+Risk+Intelligence;Isolation+Forest+%2B+Statistical+Calibration;Reduced+False+Positives+%7C+Scalable+Architecture;Production-Ready+Deployment+on+Vercel+%2B+Railway" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=700&color=8F00FF&center=true&vCenter=true&width=850&lines=Precision+Optimized+Fraud+Detection;99%25+Recall+Maintained;90%25+False+Positive+Reduction;Production-Ready+Risk+Intelligence" />
 </p>
 
-## ☁️ Server Engineering
+---
+
+# 🔐 Protocol Engineering — AegisQ
+
+```yaml
+Permissioned BFT Consensus Core
+2f+1 Quorum Enforcement
+Deterministic Leader Rotation
+View-Based Failover
+Strict Double-Vote & Equivocation Rejection
+Immediate Deterministic Finality
+Fork-Resistant Commit Lock
+CRYSTALS-Dilithium (Post-Quantum) Ready
+```
+
+## 🎯 Problem Solved
+
+Distributed systems fail under malicious behavior, equivocation, and fork conditions.
+
+## 📊 Engineering Validation
+
+* Stress-tested to **50,000 transactions**
+* Simulated double-vote & fork attacks
+* Safety preserved under ≤ (n-1)/3 Byzantine nodes
+* Deterministic finality (no probabilistic reorgs)
+
+## 🌍 Real-World Applications
+
+* Enterprise internal ledgers
+* Tamper-proof audit backbones
+* Government record systems
+* Post-quantum secure metadata anchoring
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2300&pause=800&color=8F00FF&center=true&vCenter=true&width=850&lines=Byzantine-Resilient+Consensus;Deterministic+Finality;Adversarial+System+Design;Post-Quantum+Ready+Architecture" />
+</p>
+
+---
+
+## ☁️ Infrastructure & Server Engineering
 
 ```bash
-Nextcloud Self-Hosted on Ubuntu Live Server
+Nextcloud Self-Hosted on Ubuntu Server
 Dockerized Infrastructure
 Secure Access Control & Hardening
 Networking & Distributed Systems Focus
@@ -56,8 +114,8 @@ Networking & Distributed Systems Focus
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ubuntu%20Server-6a00ff?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nextcloud-6a00ff?style=for-the-badge&logo=nextcloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-6a00ff?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Networking-6a00ff?style=for-the-badge"/>
 </p>
 
 ---
@@ -71,9 +129,7 @@ Networking & Distributed Systems Focus
   <img src="https://img.shields.io/badge/Wireshark-6a00ff?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Splunk-6a00ff?style=for-the-badge&logo=splunk&logoColor=white"/>
   <img src="https://img.shields.io/badge/ZAP-6a00ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hydra-6a00ff?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TCP%2FIP-6a00ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cisco%20Networking-6a00ff?style=for-the-badge"/>
 </p>
 
 ---
@@ -81,7 +137,7 @@ Networking & Distributed Systems Focus
 ## ⚡ Focus Trajectory
 
 ```bash
-AI Security → Blockchain Security → Quantum-Resilient Architecture
+AI Risk Systems → Distributed Consensus → Quantum-Resilient Infrastructure
 ```
 
 ---
@@ -110,8 +166,4 @@ AI Security → Blockchain Security → Quantum-Resilient Architecture
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:0b0f19&height=120&section=footer"/>
-</p>
-
-<p align="center"><b>ENGINEERING SECURITY. BEYOND LIMITS.</b></p>
+<p align="center"><b>ENGINEERING MEASURABLE, ADVERSARIAL-RESILIENT SYSTEMS.</b></p>
