@@ -26,6 +26,7 @@ I build measurable, production-oriented systems that operate safely under advers
 # 🛡️ Flagship — Trade Sentinel AI v2
 
 ```yaml
+Real-Time Transaction Injection & Evaluation 
 Hybrid Fraud Detection Architecture
 Isolation Forest (Unsupervised ML)
 Category-Aware Z-Score Normalization
