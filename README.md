@@ -66,41 +66,38 @@ Trade fraud detection systems generate excessive false positives and overload co
 </p>
 
 ---
-
 # 🔐 Protocol Engineering — AegisQ
 
 ```yaml
-Permissioned BFT Consensus Core
+Deterministic BFT Consensus Engine (Go)
+Prepare → Commit → Finalize
 2f+1 Quorum Enforcement
-Deterministic Leader Rotation
-View-Based Failover
-Strict Double-Vote & Equivocation Rejection
-Immediate Deterministic Finality
-Fork-Resistant Commit Lock
-CRYSTALS-Dilithium (Post-Quantum) Ready
+Post-Quantum Cryptography (Dilithium)
+Real-Time Explorer (React + Tailwind)
 ```
 
-## 🎯 Problem Solved
+Built a full-stack consensus system with a Go-based backend and a real-time observability explorer.
 
-Distributed systems fail under malicious behavior, equivocation, and fork conditions.
+## ⚙️ What I Engineered
 
-## 📊 Engineering Validation
+* End-to-end transaction pipeline (validation → block → finalization)
+* Deterministic consensus with strict quorum guarantees
+* Post-quantum signature verification pipeline
+* Blockchain explorer for real-time inspection of system state
 
-* Stress-tested to **50,000 transactions**
-* Simulated double-vote & fork attacks
-* Safety preserved under ≤ (n-1)/3 Byzantine nodes
-* Deterministic finality (no probabilistic reorgs)
+## 📊 Highlights
 
-## 🌍 Real-World Applications
-
-* Enterprise internal ledgers
-* Tamper-proof audit backbones
-* Government record systems
-* Post-quantum secure metadata anchoring
+* ~8K+ TPS (controlled execution)
+* Sub-second deterministic finality
+* Full observability: blocks, transactions, validators
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2300&pause=800&color=8F00FF&center=true&vCenter=true&width=850&lines=Byzantine-Resilient+Consensus;Deterministic+Finality;Adversarial+System+Design;Post-Quantum+Ready+Architecture" />
+  <a href="https://sai-shashank-2005.github.io/aegisq-consensus-whitepaper/" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20WHITEPAPER-8F00FF?style=for-the-badge&labelColor=0b0f19"/>
+  </a>
 </p>
+
+
 
 ---
 
