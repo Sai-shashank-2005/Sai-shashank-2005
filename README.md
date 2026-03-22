@@ -56,12 +56,6 @@ Trade fraud detection systems generate excessive false positives and overload co
 * Cross-border risk scoring engines
 
 <p align="center">
-  <a href="https://trade-risk-frontend.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20EXPERIENCE%20TRADE%20SENTINEL%20AI%20v2-8F00FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0b0f19" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=700&color=8F00FF&center=true&vCenter=true&width=850&lines=Precision+Optimized+Fraud+Detection;99%25+Recall+Maintained;90%25+False+Positive+Reduction;Production-Ready+Risk+Intelligence" />
 </p>
 
