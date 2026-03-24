@@ -1,161 +1,155 @@
-<!-- ================= SAI SHASHANK — SECURITY & PROTOCOL ENGINEERING ================= -->
+<!-- ================= ELITE HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,100:6a00ff&height=220&section=header&text=Sai%20Shashank%20P&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,100:6a00ff&height=240&section=header&text=Sai%20Shashank%20P&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2200&pause=600&color=8F00FF&center=true&vCenter=true&width=900&lines=Security+Engineer;AI-Driven+Risk+Systems;Byzantine-Resilient+Protocol+Builder;Ubuntu+Server+%7C+Distributed+Systems;Build.+Break.+Harden.+Scale."/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2200&pause=600&color=8F00FF&center=true&vCenter=true&width=900&lines=Systems+Engineer;Distributed+Systems;Adversarial+Analysis;AI+Risk+Systems;Build.+Break.+Harden.+Scale."/>
 </p>
 
 ---
 
-## 🧠 Who I Am
+## About
 
 ```bash
-Security Engineer focused on adversarial systems
-AI-driven fraud detection builder
-Byzantine Fault Tolerant protocol engineer
-Ubuntu | Networking | Backend Infrastructure
+I design systems that don’t break under real-world conditions
+Distributed Systems | AI Risk Systems | Failure Engineering
 ```
 
-I build measurable, production-oriented systems that operate safely under adversarial conditions.
+Most systems work in theory.
+
+I build for when they fail.
 
 ---
 
-# 🛡️ Flagship — Trade Sentinel AI v2
+# Trade Sentinel AI
 
-```yaml
-Real-Time Transaction Injection & Evaluation 
-Hybrid Fraud Detection Architecture
-Isolation Forest (Unsupervised ML)
-Category-Aware Z-Score Normalization
-0.6 AI | 0.4 Rule Weighted Risk Fusion
-Bounded Context Calibration (≤20%)
-FastAPI + React + PostgreSQL
-Production Deployment (Railway + Vercel)
-```
+### Insight
 
-## 🎯 Problem Solved
+Most fraud systems don’t fail at detection.
+They fail at usability — too many false alerts.
 
-Trade fraud detection systems generate excessive false positives and overload compliance teams.
+---
 
-## 📊 Quantified Impact
+### Impact
 
-* 50,000 transaction dataset (6% injected fraud)
-* Precision improved **36% → 88%**
-* Recall maintained at **~99%**
-* False positives reduced **5,333 → 418 (>90% reduction)**
-* Successfully scaled to **100,000+ transactions**
+* **5,333 → 418 false positives (~92% reduction)**
+* **~99% recall maintained**
+* **88% precision after recovery from ~33% drop**
 
-## 🌍 Real-World Applications
+---
 
-* Trade finance monitoring
-* AML compliance systems
-* Customs anomaly detection
-* Cross-border risk scoring engines
+### System
+
+* Isolation Forest + Rule Engine + Context Calibration
+* Real-time transaction injection & evaluation
+* Explainable risk scoring pipeline
+
+---
+
+### Access
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=700&color=8F00FF&center=true&vCenter=true&width=850&lines=Precision+Optimized+Fraud+Detection;99%25+Recall+Maintained;90%25+False+Positive+Reduction;Production-Ready+Risk+Intelligence" />
+  <a href="https://github.com/Sai-shashank-2005/trade-sentinel">
+    <img src="https://img.shields.io/badge/View%20System-8F00FF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
+<br>
+
 ---
-# 🔐 Protocol Engineering — AegisQ
 
-```yaml
-Deterministic BFT Consensus Engine (Go)
-Prepare → Commit → Finalize
-2f+1 Quorum Enforcement
-Post-Quantum Cryptography (Dilithium)
-Real-Time Explorer (React + Tailwind)
-```
+# AegisQ Protocol
 
-Built a full-stack consensus system with a Go-based backend and a real-time observability explorer.
+### Insight
 
-## ⚙️ What I Engineered
+Distributed systems don’t fail in theory.
+They fail under real network conditions.
 
-* End-to-end transaction pipeline (validation → block → finalization)
-* Deterministic consensus with strict quorum guarantees
-* Post-quantum signature verification pipeline
-* Blockchain explorer for real-time inspection of system state
+---
 
-## 📊 Highlights
+### Highlights
 
-* ~8K+ TPS (controlled execution)
+* **8,000+ TPS**
 * Sub-second deterministic finality
-* Full observability: blocks, transactions, validators
+* **~4.5× faster verification (Dilithium vs ECDSA)**
+
+---
+
+### System
+
+* Deterministic consensus (Prepare → Commit → Finalize)
+* Hybrid BFT with quorum guarantees
+* Post-quantum cryptography (Dilithium)
+* Real-time observability (validators, blocks, transactions)
+
+---
+
+### Adversarial Engineering
+
+* Replay attack scenarios
+* Transaction ordering divergence
+* Non-deterministic hashing issues
+
+Built and stress-tested under adversarial conditions to expose real-world failure modes.
+
+---
+
+### Access
 
 <p align="center">
-  <a href="https://sai-shashank-2005.github.io/aegisq-consensus-whitepaper/" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20WHITEPAPER-8F00FF?style=for-the-badge&labelColor=0b0f19"/>
+  <a href="https://sai-shashank-2005.github.io/aegisq-consensus-whitepaper/">
+    <img src="https://img.shields.io/badge/Read%20Whitepaper-8F00FF?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/Sai-shashank-2005/aegisq-protocol">
+    <img src="https://img.shields.io/badge/View%20System-8F00FF?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-
+<br>
 
 ---
 
-## ☁️ Infrastructure & Server Engineering
+# Infrastructure
 
 ```bash
-Nextcloud Self-Hosted on Ubuntu Server
-Dockerized Infrastructure
-Secure Access Control & Hardening
-Networking & Distributed Systems Focus
-```
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Ubuntu%20Server-6a00ff?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-6a00ff?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Networking-6a00ff?style=for-the-badge"/>
-</p>
-
----
-
-## 🔐 Cyber Arsenal
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Burp%20Suite-6a00ff?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-6a00ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Metasploit-6a00ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Wireshark-6a00ff?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Splunk-6a00ff?style=for-the-badge&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ZAP-6a00ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TCP%2FIP-6a00ff?style=for-the-badge"/>
-</p>
-
----
-
-## ⚡ Focus Trajectory
-
-```bash
-AI Risk Systems → Distributed Consensus → Quantum-Resilient Infrastructure
+Linux (Ubuntu Server)
+Networking & Distributed Systems
+Dockerized Systems
+Secure Backend Engineering
 ```
 
 ---
 
-## 📊 Live Metrics
+# Cybersecurity
+
+* SQLi, XSS, CSRF, RCE
+* Burp Suite, Nmap, Wireshark
+
+---
+
+# Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sai-shashank-2005&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Sai-shashank-2005&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-## 📫 Connect
+## Connect
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/saishashank2005/">
+    <img src="https://img.shields.io/badge/LinkedIn-8F00FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="mailto:saishashankpedapati@gmail.com">
-    <img src="https://img.shields.io/badge/Email-saishashankpedapati%40gmail.com-6a00ff?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/saishashank2005/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sai%20Shashank%20P-6a00ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Sai-shashank-2005" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Sai--shashank--2005-6a00ff?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-8F00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<p align="center"><b>ENGINEERING MEASURABLE, ADVERSARIAL-RESILIENT SYSTEMS.</b></p>
+<p align="center">
+  <b style="color:#8F00FF;">I don’t just build systems. I try to break them first.</b>
+</p>
