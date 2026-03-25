@@ -131,7 +131,7 @@ Secure Backend Engineering
 * Root cause analysis + mitigation mapping
 
 <p align="center">
-  <a href="https://github.com/Sai-shashank-2005/aegisq-protocol">
+  <a href="https://github.com/Sai-shashank-2005/dvwa-exploitation">
     <img src="https://img.shields.io/badge/DVWA%20Research-8F00FF?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
