@@ -120,14 +120,34 @@ Dockerized Systems
 Secure Backend Engineering
 ```
 
----
-
 # Cybersecurity
 
-* SQLi, XSS, CSRF, RCE
-* Burp Suite, Nmap, Wireshark
+---
+
+### Adversarial Web Security (DVWA)
+
+* Exploited **SQLi, XSS, CSRF, Command Injection** across security levels (low → high)
+* Payload crafting, filter bypass, and request analysis (Burp Suite)
+* Root cause analysis + mitigation mapping
+
+<p align="center">
+  <a href="https://github.com/Sai-shashank-2005/aegisq-protocol">
+    <img src="https://img.shields.io/badge/DVWA%20Research-8F00FF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
+
+### Self-Hosted Infrastructure (Nextcloud)
+
+* Secured **Nextcloud on Ubuntu Server** (access control, isolation)
+* Managed network exposure and basic service hardening
+
+---
+
+### Tools
+
+Burp Suite · Nmap · Wireshark · Zaproxy · Hydra · Sqlmap 
 
 # Activity
 
