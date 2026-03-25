@@ -1,7 +1,6 @@
 <!-- ================= SYSTEM BOOT HEADER ================= -->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,100:1a0033&height=200&section=header&text=Sai%20Shashank%20P&fontSize=50&fontColor=8F00FF&animation=fadeIn&fontAlign=50&fontAlignY=40&desc=Systems%20Engineer%20|%20Distributed%20Systems%20|%20Adversarial%20Analysis&descAlignY=65&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:6D28D9&height=220&section=header&text=Sai%20Shashank%20P&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlign=50&fontAlignY=38&desc=Systems%20Engineer%20|%20Distributed%20Systems%20|%20Adversarial%20Analysis&descColor=E5E7EB&descAlignY=62&descAlign=50"/>
 </div>
 
 <h3 align="center">
