@@ -1,12 +1,12 @@
-<!-- ================= ELITE HEADER ================= -->
+<!-- ================= SYSTEM BOOT HEADER ================= -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,100:6a00ff&height=240&section=header&text=Sai%20Shashank%20P&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,100:1a0033&height=200&section=header&text=Sai%20Shashank%20P&fontSize=50&fontColor=8F00FF&animation=fadeIn&fontAlign=50&fontAlignY=40&desc=Systems%20Engineer%20|%20Distributed%20Systems%20|%20Adversarial%20Analysis&descAlignY=65&descAlign=50"/>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2200&pause=600&color=8F00FF&center=true&vCenter=true&width=900&lines=Systems+Engineer;Distributed+Systems;Adversarial+Analysis;AI+Risk+Systems;Build.+Break.+Harden.+Scale."/>
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=900&color=8F00FF&center=true&vCenter=true&width=900&lines=%3E+Initializing+System...;%3E+Loading+Distributed+Consensus+Layer...;%3E+Injecting+Adversarial+Conditions...;%3E+Analyzing+Failure+Behavior...;%3E+Calibrating+Risk+Signals+(AI)...;%3E+System+State:+CONSISTENT;%3E+Status:+OPERATIONAL." />
+</h3>
 
 ---
 
@@ -120,9 +120,9 @@ Dockerized Systems
 Secure Backend Engineering
 ```
 
-# Cybersecurity
-
 ---
+
+# Cybersecurity
 
 ### Adversarial Web Security (DVWA)
 
@@ -148,6 +148,8 @@ Secure Backend Engineering
 ### Tools
 
 Burp Suite · Nmap · Wireshark · Zaproxy · Hydra · Sqlmap 
+
+---
 
 # Activity
 
