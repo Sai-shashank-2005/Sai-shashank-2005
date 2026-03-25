@@ -1,13 +1,12 @@
 <!-- ================= SYSTEM BOOT HEADER ================= -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:6D28D9&height=220&section=header&text=Sai%20Shashank%20P&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlign=50&fontAlignY=38&desc=Systems%20Engineer%20|%20Distributed%20Systems%20|%20Adversarial%20Analysis&descColor=E5E7EB&descAlignY=62&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f19,100:1a0033&height=220&section=header&text=Sai%20Shashank%20P&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlign=50&fontAlignY=38&desc=Systems%20Engineer%20|%20Distributed%20Systems%20|%20Adversarial%20Analysis&descColor=E5E7EB&descAlignY=62&descAlign=50"/>
 </div>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=900&color=8F00FF&center=true&vCenter=true&width=900&lines=%3E+Initializing+System...;%3E+Loading+Distributed+Consensus+Layer...;%3E+Injecting+Adversarial+Conditions...;%3E+Analyzing+Failure+Behavior...;%3E+Calibrating+Risk+Signals+(AI)...;%3E+System+State:+CONSISTENT;%3E+Status:+OPERATIONAL." />
 </h3>
-
----
 
 ## About
 
@@ -20,16 +19,15 @@ Most systems work in theory.
 
 I build for when they fail.
 
----
+<br>
+
+## Selected Systems
 
 # Trade Sentinel AI
 
-### Insight
+### Problem
 
-Most fraud systems don’t fail at detection.
-They fail at usability — too many false alerts.
-
----
+Trade monitoring systems generate too many false positives, wasting analyst time while real fraud slips through due to lack of context.
 
 ### Impact
 
@@ -37,15 +35,11 @@ They fail at usability — too many false alerts.
 * **~99% recall maintained**
 * **88% precision after recovery from ~33% drop**
 
----
-
 ### System
 
 * Isolation Forest + Rule Engine + Context Calibration
 * Real-time transaction injection & evaluation
 * Explainable risk scoring pipeline
-
----
 
 ### Access
 
@@ -57,24 +51,17 @@ They fail at usability — too many false alerts.
 
 <br>
 
----
-
 # AegisQ Protocol
 
-### Insight
+### Problem
 
-Distributed systems don’t fail in theory.
-They fail under real network conditions.
-
----
+Consensus systems lack visibility under real network conditions, making failures hard to detect, debug, and trust.
 
 ### Highlights
 
 * **8,000+ TPS**
 * Sub-second deterministic finality
 * **~4.5× faster verification (Dilithium vs ECDSA)**
-
----
 
 ### System
 
@@ -83,8 +70,6 @@ They fail under real network conditions.
 * Post-quantum cryptography (Dilithium)
 * Real-time observability (validators, blocks, transactions)
 
----
-
 ### Adversarial Engineering
 
 * Replay attack scenarios
@@ -92,8 +77,6 @@ They fail under real network conditions.
 * Non-deterministic hashing issues
 
 Built and stress-tested under adversarial conditions to expose real-world failure modes.
-
----
 
 ### Access
 
@@ -108,8 +91,6 @@ Built and stress-tested under adversarial conditions to expose real-world failur
 
 <br>
 
----
-
 # Infrastructure
 
 ```bash
@@ -118,8 +99,6 @@ Networking & Distributed Systems
 Dockerized Systems
 Secure Backend Engineering
 ```
-
----
 
 # Cybersecurity
 
@@ -135,28 +114,20 @@ Secure Backend Engineering
   </a>
 </p>
 
----
-
 ### Self-Hosted Infrastructure (Nextcloud)
 
 * Secured **Nextcloud on Ubuntu Server** (access control, isolation)
 * Managed network exposure and basic service hardening
 
----
-
 ### Tools
 
-Burp Suite · Nmap · Wireshark · Zaproxy · Hydra · Sqlmap 
-
----
+Burp Suite · Nmap · Wireshark · Zaproxy · Hydra · Sqlmap
 
 # Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sai-shashank-2005&theme=tokyonight&hide_border=true" height="180"/>
 </p>
-
----
 
 ## Connect
 
@@ -168,8 +139,6 @@ Burp Suite · Nmap · Wireshark · Zaproxy · Hydra · Sqlmap
     <img src="https://img.shields.io/badge/Email-8F00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
 
 <p align="center">
   <b style="color:#8F00FF;">I don’t just build systems. I try to break them first.</b>
