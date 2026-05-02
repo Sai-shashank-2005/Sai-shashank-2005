@@ -1,145 +1,81 @@
 <!-- ================= SYSTEM BOOT HEADER ================= -->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f19,100:1a0033&height=220&section=header&text=Sai%20Shashank%20P&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlign=50&fontAlignY=38&desc=Systems%20Engineer%20|%20Distributed%20Systems%20|%20Adversarial%20Analysis&descColor=E5E7EB&descAlignY=62&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,100:1a0033&height=250&section=header&text=Sai%20Shashank%20P&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=SOC%20Analyst%20|%20Threat%20Hunter%20|%20Security%20Engineer&descColor=8F00FF&descAlignY=58&descAlign=50"/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=E5E7EB&center=true&vCenter=true&width=800&lines=%3E_Hunting+threats+in+network+telemetry...;%3E_Engineering+secure+SIEM+pipelines...;%3E_Mapping+adversary+behavior+to+MITRE+ATT%26CK...;%3E_Status:+ACTIVE_MONITORING" />
 </div>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=900&color=8F00FF&center=true&vCenter=true&width=900&lines=%3E+Initializing+System...;%3E+Loading+Distributed+Consensus+Layer...;%3E+Injecting+Adversarial+Conditions...;%3E+Analyzing+Failure+Behavior...;%3E+Calibrating+Risk+Signals+(AI)...;%3E+System+State:+CONSISTENT;%3E+Status:+OPERATIONAL." />
-</h3>
+---
 
-## About
+> **I don't just read alerts.** I investigate the underlying network behavior, correlate logs, and map adversary tactics to build resilient detection logic. Leveraging a strong background in distributed systems, I understand how complex infrastructure operates—giving me a distinct advantage in hunting the threats that seek to break it.
 
-```bash
-I design systems that don’t break under real-world conditions
-Distributed Systems | AI Risk Systems | Failure Engineering
-```
+---
 
-Most systems work in theory.
+<div align="center">
+  <h2>🛠️ Core Security Arsenal</h2>
+  <p align="center">
+    <!-- Tools -->
+    <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux_Hardening-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+    <br><br>
+    <!-- Certs -->
+    <img src="https://img.shields.io/badge/Cisco-Intro_to_Cybersecurity-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cisco-Networking_Basics-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
+  </p>
+</div>
 
-I build for when they fail.
+---
 
-<br>
+## 🛡️ Active SOC Investigations & Security Labs
 
-## Selected Systems
-
-# Trade Sentinel AI
-
-### Problem
-
-Trade monitoring systems generate too many false positives, wasting analyst time while real fraud slips through due to lack of context.
-
-### Impact
-
-* **5,333 → 418 false positives (~92% reduction)**
-* **~99% recall maintained**
-* **88% precision after recovery from ~33% drop**
-
-### System
-
-* Isolation Forest + Rule Engine + Context Calibration
-* Real-time transaction injection & evaluation
-* Explainable risk scoring pipeline
-
-### Access
-
-<p align="center">
-  <a href="https://github.com/Sai-shashank-2005/trade-sentinel">
-    <img src="https://img.shields.io/badge/View%20System-8F00FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+### [🔍 SOC Traffic Analysis & SIEM Lab](https://github.com/Sai-shashank-2005/soc-traffic-analysis)
+*Simulated enterprise environments to build detection logic, analyze malware behaviors, and produce evidence-based incident reports.*
+* **Focus:** Detection Engineering, PCAP Investigation, Log Correlation.
+* **SIEM (Splunk):** Engineered proactive detection queries (SPL) for reconnaissance activity (e.g., continuous port scanning via Firewall logs) and APT C2 beaconing.
+* **Network Analysis (Wireshark):** Investigated PCAPs to reconstruct infection chains and identify command-and-control infrastructure for **NetSupport RAT**, **TrickBot**, and **Lumma Stealer**.
+* **Actionable Intel:** Mapped isolated techniques directly to the **MITRE ATT&CK** framework, accelerating incident triage and remediation workflows.
 
 <br>
 
-# AegisQ Protocol
-
-### Problem
-
-Consensus systems lack visibility under real network conditions, making failures hard to detect, debug, and trust.
-
-### Highlights
-
-* **8,000+ TPS**
-* Sub-second deterministic finality
-* **~4.5× faster verification (Dilithium vs ECDSA)**
-
-### System
-
-* Deterministic consensus (Prepare → Commit → Finalize)
-* Hybrid BFT with quorum guarantees
-* Post-quantum cryptography (Dilithium)
-* Real-time observability (validators, blocks, transactions)
-
-### Adversarial Engineering
-
-* Replay attack scenarios
-* Transaction ordering divergence
-* Non-deterministic hashing issues
-
-Built and stress-tested under adversarial conditions to expose real-world failure modes.
-
-### Access
-
-<p align="center">
-  <a href="https://sai-shashank-2005.github.io/aegisq-consensus-whitepaper/">
-    <img src="https://img.shields.io/badge/Read%20Whitepaper-8F00FF?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/Sai-shashank-2005/aegisq-protocol">
-    <img src="https://img.shields.io/badge/View%20System-8F00FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+### [🐧 Linux Security Hardening Lab](https://github.com/Sai-shashank-2005/syssec-lab)
+*Secured remote access and enforced strict operational controls to prevent lateral movement.*
+* **Focus:** Defense-in-Depth, Least Privilege, Audit Visibility.
+* **Infrastructure Hardening:** Enforced strict least-privilege user isolation, established key-based SSH authentication, and disabled root vulnerabilities.
+* **Forensic Readiness:** Configured robust audit logging pipelines to ensure high-fidelity visibility for post-incident investigations.
 
 <br>
 
-# Infrastructure
+### [🕸️ Adversarial Web Security (DVWA)](https://github.com/Sai-shashank-2005/dvwa-exploitation)
+* **Focus:** Web Application Exploitation & Root Cause Mitigation.
+* **Execution:** Conducted payload crafting, filter bypass, and HTTP request analysis using **Burp Suite** to exploit SQLi, XSS, CSRF, and Command Injection across escalating security levels.
 
-```bash
-Linux (Ubuntu Server)
-Networking & Distributed Systems
-Dockerized Systems
-Secure Backend Engineering
-```
+---
 
-# Cybersecurity
+## ⚙️ Secure Systems Engineering
+*My background in building and breaking complex systems.*
 
-### Adversarial Web Security (DVWA)
+* **[Trade Sentinel AI](https://github.com/Sai-shashank-2005/trade-sentinel):** Architected an anomaly detection pipeline utilizing Isolation Forests. **Impact:** Reduced false positive alerts by **~92%** (5,333 → 418) while maintaining a ~99% true-positive threat recall rate.
+* **[AegisQ Protocol](https://github.com/Sai-shashank-2005/aegisq-protocol):** Engineered a highly resilient distributed consensus system integrating post-quantum cryptography, stress-tested against adversarial replay attacks.
 
-* Exploited **SQLi, XSS, CSRF, Command Injection** across security levels (low → high)
-* Payload crafting, filter bypass, and request analysis (Burp Suite)
-* Root cause analysis + mitigation mapping
+---
 
-<p align="center">
-  <a href="https://github.com/Sai-shashank-2005/dvwa-exploitation">
-    <img src="https://img.shields.io/badge/DVWA%20Research-8F00FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-### Self-Hosted Infrastructure (Nextcloud)
-
-* Secured **Nextcloud on Ubuntu Server** (access control, isolation)
-* Managed network exposure and basic service hardening
-
-### Tools
-
-Burp Suite · Nmap · Wireshark · Zaproxy · Hydra · Sqlmap
-
-# Activity
-
-<p align="center">
+<div align="center">
+  <h2>📈 Operational Activity</h2>
   <img src="https://streak-stats.demolab.com?user=Sai-shashank-2005&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+  
+  <br><br>
 
-## Connect
-
-<p align="center">
+  <h2>📬 Secure Comms</h2>
   <a href="https://www.linkedin.com/in/saishashank2005/">
     <img src="https://img.shields.io/badge/LinkedIn-8F00FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:saishashankpedapati@gmail.com">
     <img src="https://img.shields.io/badge/Email-8F00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <b style="color:#8F00FF;">I don’t just build systems. I try to break them first.</b>
-</p>
+  
+  <br><br>
+  <p><b style="color:#8F00FF;">I don’t just build systems. I break them, analyze the logs, and learn how to defend them.</b></p>
+</div>
