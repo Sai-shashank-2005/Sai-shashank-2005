@@ -9,7 +9,7 @@
     <p align="center"><b>"My journey into cybersecurity started with a deep, obsessive love for computer networking. I wanted to know exactly how the wires talked—and eventually, I learned how to protect the conversations."</b></p>
   </blockquote>
   <p align="center">
-    From building distributed systems to defending them, I am a SOC Analyst specializing in threat detection, network forensics, and security engineering. As a <b>2x National Cybersecurity Hackathon Finalist</b>, I rely on an attacker-first mindset honed in competitive CTFs. Backed by hardcore Linux administration, bare-metal server handling, and full-stack system architecture, I reconstruct adversary footprints across the most complex networks.
+    From building distributed systems to defending them, I am a SOC Analyst specializing in threat detection, network forensics, and security engineering. As a <b>2x National Cybersecurity Hackathon Finalist</b>, I rely on an attacker-first mindset honed in competitive CTFs. Backed by hardcore Linux administration, deep-level disk forensics, and full-stack system architecture, I reconstruct adversary footprints across the most complex networks and blockchain environments.
   </p>
 </div>
 
@@ -21,30 +21,38 @@
   <table>
     <thead>
       <tr>
-        <th align="center" width="25%">Defense & Forensics</th>
-        <th align="center" width="25%">Infrastructure & OS</th>
-        <th align="center" width="25%">Systems Engineering</th>
-        <th align="center" width="25%">Offensive Security</th>
+        <th align="center" width="20%">Defense & Forensics</th>
+        <th align="center" width="20%">Offensive Security</th>
+        <th align="center" width="20%">Infrastructure & OS</th>
+        <th align="center" width="20%">Systems & Web Eng</th>
+        <th align="center" width="20%">Blockchain Sec</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td align="center">
           <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" /><br><br>
-          <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+          <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" /><br><br>
+          <img src="https://img.shields.io/badge/Sleuth_Kit-4B275F?style=for-the-badge&logo=linux&logoColor=white" alt="The Sleuth Kit" />
+        </td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" /><br><br>
+          <img src="https://img.shields.io/badge/Nmap-222222?style=for-the-badge&logo=linux&logoColor=white" alt="Nmap" /><br><br>
+          <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
         </td>
         <td align="center">
           <img src="https://img.shields.io/badge/Ubuntu_Live_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" /><br><br>
           <img src="https://img.shields.io/badge/Arch_/_Fedora-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch/Fedora" />
         </td>
         <td align="center">
-          <img src="https://img.shields.io/badge/Python_Certified-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br><br>
           <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /><br><br>
-          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br><br>
+          <img src="https://img.shields.io/badge/React_/_Vite-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /><br><br>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
         </td>
         <td align="center">
-          <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" /><br><br>
-          <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+          <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" /><br><br>
+          <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
         </td>
       </tr>
     </tbody>
@@ -58,21 +66,31 @@
 
 <ul>
   <li><b>The Networking Evangelist:</b> I don't just understand TCP/IP; I live it. I can teach network fundamentals all day long, which gives me a distinct advantage when analyzing PCAPs or tracking lateral movement.</li>
-  <li><b>Rapid Execution:</b> I move fast. I previously solo-architected and deployed a functional AI system in a matter of weeks. I bring this same high-velocity execution to incident response and threat mitigation.</li>
+  <li><b>Rapid Execution:</b> I move fast. I solo-architected and deployed a functional AI system in a matter of weeks. I bring this same high-velocity execution to incident response, forensic triage, and threat mitigation.</li>
   <li><b>Force Multiplier:</b> I don't just operate in a silo. I actively guide and elevate my team, sharing technical insights and pushing engineering units to adopt secure-by-design principles.</li>
-  <li><b>Full-Stack Context:</b> I type at 80 WPM, relentlessly debug architectures, and build highly optimized <b>interactive 3D websites</b>. Because I build and secure the application layer (including payment gateways), I know exactly how adversaries try to exploit it.</li>
+  <li><b>Full-Stack Context:</b> I type at 80 WPM, relentlessly debug architectures, and build highly optimized interactive 3D interfaces and web applications using React, Vite, and Node.js. Because I build and secure the application layer from the ground up, I know exactly how adversaries try to exploit it.</li>
 </ul>
 
 <hr>
 
-<h2>🛡️ Active Security Operations</h2>
+<h2>🛡️ Active Security Operations & Forensics</h2>
+
+<h4>🔴 <a href="#">Digital Forensics & CTF Exploitation</a></h4>
+<blockquote>
+  <p><i>Real-world incident response simulations and competitive forensic challenges.</i></p>
+  <ul>
+    <li><b>Disk & File System Forensics:</b> Extracted volatile evidence, reconstructed hidden artifacts, and analyzed raw DD images (e.g., pp-evidence-101) utilizing <code>The Sleuth Kit</code> and <code>binwalk</code>.</li>
+    <li><b>Blockchain Incident Response:</b> Investigated simulated Ethereum vault heists, auditing EVM storage and utilizing the Foundry <code>cast</code> toolkit to decode raw hexadecimal storage slots.</li>
+    <li><b>System Integrity:</b> Reversed and repaired corrupted Git repositories on forensics workstations by resolving invalid SHA-1 pointers and missing blob issues.</li>
+  </ul>
+</blockquote>
 
 <h4>🔴 <a href="https://github.com/Sai-shashank-2005/dvwa-exploitation">Adversarial Web Security & Vulnerability Research (DVWA)</a></h4>
 <blockquote>
   <p><i>Comprehensive documentation of 16+ web attack vectors across Low, Medium, and High tiers.</i></p>
   <ul>
     <li><b>Execution:</b> Exploited SQLi, DOM/Reflected XSS, CSRF, Command Injection, and Auth Bypasses.</li>
-    <li><b>Documentation Excellence:</b> Authored meticulous Proof of Concepts (PoCs) featuring <b>heavily annotated screenshots (targeted visual markings)</b>, precise execution steps, and root-cause mitigation strategies.</li>
+    <li><b>Documentation Excellence:</b> Authored meticulous Proof of Concepts (PoCs) featuring heavily annotated screenshots (targeted visual markings), precise execution steps, and root-cause mitigation strategies.</li>
   </ul>
 </blockquote>
 
@@ -125,22 +143,15 @@
   </table>
 </div>
 
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <b>💡 The Human Element</b><br>
-        Beyond the terminal, the servers, and the code, I am just someone with an obsessive curiosity for how the digital world is wired together. Whether I'm guiding a team, designing a 3D website, or hunting a quiet threat in the network logs, I put my heart into the craft. I build with passion, and I defend with absolute precision.
-      </td>
-    </tr>
-  </table>
-</div>
-
 <hr>
 
+<h2 align="center">📈 Engineering Velocity & Commit Activity</h2>
+
 <div align="center">
+  <img loading="lazy" alt="GitHub Activity Graph" src="https://montasim-github-readme-activity-graph.vercel.app/graph?username=Sai-shashank-2005&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true">
+  
+  <br><br>
+
   <img src="https://streak-stats.demolab.com?user=Sai-shashank-2005&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak Stats"/>
   
   <br><br>
