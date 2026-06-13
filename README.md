@@ -15,7 +15,7 @@
 
 <hr>
 
-<h2 align="center">🛠️ Core Security & Engineering Arsenal</h2>
+<h2 align="center">🛠️ Tools & Technologies</h2>
 
 <div align="center">
   <table>
@@ -48,7 +48,8 @@
           <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /><br><br>
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br><br>
           <img src="https://img.shields.io/badge/React_/_Vite-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /><br><br>
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /><br><br>
+          <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
         </td>
         <td align="center">
           <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" /><br><br>
@@ -61,21 +62,21 @@
 
 <hr>
 
-<h2>🧠 The Operator's DNA</h2>
+<h2>🧠 How I Work</h2>
 <p><em>What makes me a lethal defender is my execution speed and engineering depth.</em></p>
 
 <ul>
   <li><b>The Networking Evangelist:</b> I don't just understand TCP/IP; I live it. I can teach network fundamentals all day long, which gives me a distinct advantage when analyzing PCAPs or tracking lateral movement.</li>
   <li><b>Rapid Execution:</b> I move fast. I solo-architected and deployed a functional AI system in a matter of weeks. I bring this same high-velocity execution to incident response, forensic triage, and threat mitigation.</li>
   <li><b>Force Multiplier:</b> I don't just operate in a silo. I actively guide and elevate my team, sharing technical insights and pushing engineering units to adopt secure-by-design principles.</li>
-  <li><b>Full-Stack Context:</b> I type at 80 WPM, relentlessly debug architectures, and build highly optimized interactive 3D interfaces and web applications using React, Vite, and Node.js. Because I build and secure the application layer from the ground up, I know exactly how adversaries try to exploit it.</li>
+  <li><b>Full-Stack Context & Edge Optimization:</b> I type at 80 WPM, relentlessly debug architectures, and build highly optimized interactive interfaces using React, Vite, and Node.js. Beyond just code, I secure and accelerate the perimeter using <b>Cloudflare</b>—engineering for peak visibility by consistently achieving <b>90+ Lighthouse scores</b> across Performance, Accessibility, and SEO. Because I build and secure the application layer from the ground up, I know exactly how adversaries try to exploit it.</li>
 </ul>
 
 <hr>
 
-<h2>🛡️ Active Security Operations & Forensics</h2>
+<h2>🛡️ Cybersecurity & Forensics Experience</h2>
 
-<h4>🔴 <a href="#">Digital Forensics & CTF Exploitation</a></h4>
+<h4>🔴 <a href="#">Digital Forensics & Competitions (CTFs)</a></h4>
 <blockquote>
   <p><i>Real-world incident response simulations and competitive forensic challenges.</i></p>
   <ul>
@@ -85,7 +86,7 @@
   </ul>
 </blockquote>
 
-<h4>🔴 <a href="https://github.com/Sai-shashank-2005/dvwa-exploitation">Adversarial Web Security & Vulnerability Research (DVWA)</a></h4>
+<h4>🔴 <a href="https://github.com/Sai-shashank-2005/dvwa-exploitation">Web Security & Penetration Testing</a></h4>
 <blockquote>
   <p><i>Comprehensive documentation of 16+ web attack vectors across Low, Medium, and High tiers.</i></p>
   <ul>
@@ -94,7 +95,7 @@
   </ul>
 </blockquote>
 
-<h4>🔴 <a href="https://github.com/Sai-shashank-2005/soc-traffic-analysis">SOC Traffic Analysis & SIEM Lab</a></h4>
+<h4>🔴 <a href="https://github.com/Sai-shashank-2005/soc-traffic-analysis">Network Traffic Analysis & Threat Detection</a></h4>
 <blockquote>
   <ul>
     <li><b>Detection Engineering:</b> Engineered proactive SPL queries in <b>Splunk</b> to catch reconnaissance and APT C2 beaconing.</li>
@@ -105,7 +106,7 @@
 
 <hr>
 
-<h2>🖥️ Enterprise-Grade Home Lab & Infrastructure</h2>
+<h2>🖥️ Home Lab & Server Infrastructure</h2>
 <p><em>Practical bare-metal server administration and strict security enforcement.</em></p>
 
 <ul>
@@ -116,7 +117,7 @@
 
 <hr>
 
-<h2 align="center">⚙️ The Architect's Canvas: Secure Systems Engineering</h2>
+<h2 align="center">⚙️ Software Development Projects</h2>
 <p align="center"><em>At my core, I am a builder who fell in love with defense. I don't just study complex systems—I build them, break them, and rebuild them. Here is the true engineering history behind my deep-tech passion projects.</em></p>
 
 <div align="center">
@@ -145,7 +146,7 @@
 
 <hr>
 
-<h2 align="center">📈 Engineering Velocity & Commit Activity</h2>
+<h2 align="center">📈 GitHub Activity & Stats</h2>
 
 <div align="center">
   <img loading="lazy" alt="GitHub Activity Graph" src="https://montasim-github-readme-activity-graph.vercel.app/graph?username=Sai-shashank-2005&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true">
