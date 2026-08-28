@@ -20450,14 +20450,15 @@
       "name": "Divider Widget",
       "position": {
         "x": 0,
-        "y": 578
+        "y": 571
       },
       "size": {
         "width": 800,
         "height": 30
       },
       "config": {
-        "accentColor": "#7a7a7a"
+        "accentColor": "#7a7a7a",
+        "hideBorder": true
       },
       "locked": false,
       "visible": true,
@@ -20506,11 +20507,11 @@
       "name": "Social-media Widget",
       "position": {
         "x": 0,
-        "y": 1528
+        "y": 1576
       },
       "size": {
-        "width": 256,
-        "height": 96
+        "width": 264,
+        "height": 112
       },
       "config": {
         "selectedSocials": [
@@ -20570,7 +20571,7 @@
       },
       "size": {
         "width": 800,
-        "height": 216
+        "height": 256
       },
       "config": {
         "showTitle": true
@@ -20585,7 +20586,7 @@
       "name": "Streak-stats Widget",
       "position": {
         "x": 280,
-        "y": 1072
+        "y": 1088
       },
       "size": {
         "width": 512,
@@ -20607,12 +20608,12 @@
       "widgetId": "ascii-text",
       "name": "Ascii-text Widget",
       "position": {
-        "x": 256,
-        "y": 1532
+        "x": 272,
+        "y": 1584
       },
       "size": {
         "width": 512,
-        "height": 88
+        "height": 104
       },
       "config": {
         "customText": "reapernode",
@@ -20634,6 +20635,46 @@
       "locked": false,
       "visible": true,
       "zIndex": 13
+    },
+    {
+      "instanceId": "widget_1787944358182",
+      "widgetId": "divider",
+      "name": "Divider Widget",
+      "position": {
+        "x": 0,
+        "y": 1688
+      },
+      "size": {
+        "width": 800,
+        "height": 30
+      },
+      "config": {
+        "accentColor": "#7a7a7a",
+        "hideBorder": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 14
+    },
+    {
+      "instanceId": "widget_1787944360578",
+      "widgetId": "divider",
+      "name": "Divider Widget",
+      "position": {
+        "x": 0,
+        "y": 1546
+      },
+      "size": {
+        "width": 800,
+        "height": 30
+      },
+      "config": {
+        "accentColor": "#7a7a7a",
+        "hideBorder": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 15
     }
   ],
   "globalStyles": {
